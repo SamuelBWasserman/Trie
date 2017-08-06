@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * This class implements a compressed trie. Each node of the tree is a CompressedTrieNode, with fields for
  * indexes, first child and sibling.
  * 
- * @author Sesh Venugopal
  *
  */
 public class Trie {
